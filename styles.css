@@ -15,6 +15,7 @@
     color: #658ec6;
     font-weight: 500;
     opacity: 0.8;
+    letter-spacing: 2px;
   }
   
   h3 {
@@ -201,4 +202,8 @@
 img {
     max-width:25%;
     height:auto;
+}
+
+.avatarimg {
+    border-radius: 25px;
 }
